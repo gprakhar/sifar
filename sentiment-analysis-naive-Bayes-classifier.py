@@ -1,4 +1,5 @@
 ##http://streamhacker.com/2010/05/10/text-classification-sentiment-analysis-naive-bayes-classifier/
+## Text Classification for Sentiment Analysis – Naive Bayes Classifier
 
 import nltk.classify.util
 from nltk.classify import NaiveBayesClassifier
